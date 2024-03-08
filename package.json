@@ -1,11 +1,11 @@
 {
   "name": "get-processor-usage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "mocha": "^2.2.4",
     "should": "^5.2.0",
     "give-cpu-info": "1.0.1"
